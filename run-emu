@@ -1,0 +1,3 @@
+#!/bin/sh
+
+QT_QPA_PLATFORM= /opt/android-sdk/emulator/emulator -avd '5.4_FWVGA_Edited_API_29'
