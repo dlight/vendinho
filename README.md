@@ -12,3 +12,10 @@ need to change the script. You can run
 ```
 
 To list all available emulators.
+
+Anyway after the emulator setup (by far the trickiest part), just do
+
+```bash
+npm install
+npm run android
+```
